@@ -4,11 +4,12 @@
 ## Informações Gerais
 Coloque aqui os seus dados
 - Nome: Ian da Silva Araujo
-- Matricula:
+- Matricula: 832315
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Tela de inspeção com navegador](images/network.png)
+![Index](images/Hello_world.png)
 
 
 ## Orientações sobre Linguagem MarkDown
